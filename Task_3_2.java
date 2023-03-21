@@ -25,10 +25,8 @@ public class Task_3_2 {
                     ar.remove(i);
                 }
             }
-
             Collections.sort(ar);
             System.out.println("Список с удаленными четными числами: \n " + ar);
-
         }
     }
 
